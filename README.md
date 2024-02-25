@@ -3,7 +3,6 @@
 > É necessário ter uma conta do Azure
 ## Passo a passo Estúdio de fala
 ### 1. Configurando um recurso 
-  - No [Portal do Azure](https://portal.azure.com/#home)
   - No menu de cima click em **configurações**
   - Caso não tenha nenhum recurso click em **Criar novo recurso**
   - Selecione o recurso
